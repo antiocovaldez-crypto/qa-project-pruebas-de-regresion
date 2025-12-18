@@ -18,6 +18,12 @@ tipos de transporte.
 - **Severidad grave:** [3]
 
 ## 📁 Estructura del Proyecto
-- `documentos/`: Casos de prueba y reportes
-- `evidencias/`: Capturas de pantalla
-- `recursos/`: Documentación adicional
+`documentos/`: [Casos de prueba y reportes](https://docs.google.com/spreadsheets/d/1cmdVBUlXEFGNCZHhOM-GxtCP_VsAck8c/edit?usp=drive_link&ouid=107532601568989889071&rtpof=true&sd=true)
+  
+`evidencias/`:
+
+- [Captura de pantalla casos de prueba](https://drive.google.com/file/d/1kfh6LJDUhOIHmzusDRbdqvPrXNZ-b3Jt/view?usp=sharing)
+
+- [Captura de pantalla reporte de errores](https://drive.google.com/file/d/1UCPYF3Z_281fp5kGrvyvfCyaGOU-Wt8M/view?usp=sharing)
+  
+`recursos/`: [Documentación adicional](https://youtu.be/OEcIXnU6EQw?si=aIt10M-fHsOf0SCv)
