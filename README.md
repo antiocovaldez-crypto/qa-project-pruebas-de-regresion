@@ -26,4 +26,4 @@ tipos de transporte.
 
 - [Captura de pantalla reporte de errores](https://drive.google.com/file/d/1UCPYF3Z_281fp5kGrvyvfCyaGOU-Wt8M/view?usp=sharing)
   
-`recursos/`: [Documentación adicional](https://youtu.be/OEcIXnU6EQw?si=aIt10M-fHsOf0SCv)
+`recursos/`: [Documentación adicional](https://docs.google.com/document/d/1VPo9Wd5-r54I2G17CJxW5OndZzHd4CY1Li3TKcxGD5s/edit?usp=sharing)
